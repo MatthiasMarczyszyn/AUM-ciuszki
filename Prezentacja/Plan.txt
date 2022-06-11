@@ -1,0 +1,7 @@
+1. Tytułowy (klasyk)
+2, 3 - slajdy wprowadzające do problemu (indeksowanie i tagowanie przedmiotów na stronach typu Vinted)
+4 - teoria tego rodzaju sieci neuronowych
+5, 6 - narzędzia które wykorzystaliśmy do rozwiązania problemu
+7 - przedstawienie baz
+8 - kod
+9,10 - benchmarki
